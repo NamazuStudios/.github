@@ -1,4 +1,4 @@
-# Elements Open Source Project
+# Welcome to the Elements Open Source Project
 
 Elements is an open-source server built to enable online and connected games. 
 
