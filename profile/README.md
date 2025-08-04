@@ -1,16 +1,16 @@
-# Welcome to the Elements Open Source Project
+# Welcome to the Namazu Elements Open Source Project
 
-Elements is an open-source server built to enable online and connected games. 
+Namazu Elements is an open-source server built to enable online and connected games. 
 
 Built in Java for security and extensibility. Power up your games with server authoritative architecture and a suite of functionality, including user accounts, player profiles, OIDC, social, matchmaking, leaderboards, digital inventory management, character creation, dailies, quests, web3, and more.
 
 A few helpful links to get you started:
 
-* 🔗 [Elements User Manual](https://manual.getelements.dev)
-* 🔗 [Elements Product Description](https://namazustudios.com/elements/)
-* 🔗 [Example Starter Project](https://github.com/Elemental-Computing/element-example)
-* 🔗 [Elements Community Edition (CE) in Docker](https://github.com/Elemental-Computing/docker-compose)
-* 🔗 [Elements Complete Source Code](https://github.com/Elemental-Computing/elements)
+* 🔗 [Namazu Elements User Manual](https://manual.namazustudios.com)
+* 🔗 [Namazu Elements Product Description](https://namazustudios.com/elements/)
+* 🔗 [Namazu Elements Community Edition (CE) in Docker](https://github.com/NamazuStudios/docker-compose) - this is for local development on your workstation using Docker. Most people choose this option to get started. 
+* 🔗 [Example Starter Project](https://github.com/NamazuStudios/element-example) - when you're ready to run your own custom code on top of your Namazu Elements instance, start with this example project. This allows you to develop and debug your custom code right in your IDE. This is what makes Namazu Elements in a class of its own. Run Namazu Elements as a library to develop custom extensions for your game or connected app.   
+* 🔗 [Namazu Elements Complete Source Code](https://github.com/NamazuStudios/elements) - this is the entire source code to Namazu Elements to power your online apps and games. For advanced users only. Learn, explore and understand and see how it works for yourself.  
 
 Still looking for answers?
 
