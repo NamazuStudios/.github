@@ -9,6 +9,7 @@ A few helpful links to get you started:
 * 🔗 [Namazu Elements User Manual](https://manual.namazustudios.com)
 * 🔗 [Namazu Elements Product Description](https://namazustudios.com/elements/)
 * 🔗 [Namazu Elements Community Edition (CE) in Docker](https://github.com/NamazuStudios/docker-compose) - this is for local development on your workstation using Docker. Most people choose this option to get started. 
+* 🔗 [Namazu Elements Community Edition (CE) in AWS](https://github.com/NamazuStudios/community-edition-aws/) - runs Namazu Elements CE in AWS with one command using [Terraform](https://developer.hashicorp.com/terraform).
 * 🔗 [Example Starter Project](https://github.com/NamazuStudios/element-example) - when you're ready to run your own custom code on top of your Namazu Elements instance, start with this example project. This allows you to develop and debug your custom code right in your IDE. This is what makes Namazu Elements in a class of its own. Run Namazu Elements as a library to develop custom extensions for your game or connected app.
 * 🔗 [Namazu Elements Complete Source Code](https://github.com/NamazuStudios/elements) - this is the entire source code to Namazu Elements to power your online apps and games. For advanced users only. Learn, explore and understand and see how it works for yourself.  
 * 🔗 [Namazu Crossfire](https://github.com/namazuStudios/crossfire) - Crossfire. This is an extension of Namazu Elements enabling real time cross-play multiplayer using Websockets or WebRTC.
