@@ -11,9 +11,8 @@ A few helpful links to get you started:
 * 🔗 [Namazu Elements Community Edition (CE) in Docker](https://github.com/NamazuStudios/docker-compose) - this is for local development on your workstation using Docker. Most people choose this option to get started. 
 * 🔗 [Example Starter Project](https://github.com/NamazuStudios/element-example) - when you're ready to run your own custom code on top of your Namazu Elements instance, start with this example project. This allows you to develop and debug your custom code right in your IDE. This is what makes Namazu Elements in a class of its own. Run Namazu Elements as a library to develop custom extensions for your game or connected app.
 * 🔗 [Namazu Elements Complete Source Code](https://github.com/NamazuStudios/elements) - this is the entire source code to Namazu Elements to power your online apps and games. For advanced users only. Learn, explore and understand and see how it works for yourself.  
-* 🔗 [Namazu Crossfire](https://github.com/namazuStudios/crossfire) - Crossfire (pre-release). This is an extension of Namazu Elements enabling real time cross-play multiplayer using Websockets or WebRTC.
-
-
+* 🔗 [Namazu Crossfire](https://github.com/namazuStudios/crossfire) - Crossfire. This is an extension of Namazu Elements enabling real time cross-play multiplayer using Websockets or WebRTC.
+* 🔗 [Pong-Like Multiplayer](https://github.com/NamazuStudios/pong-multiplayer-example) Pong-Like Netplay Example. This is a complete game, made in Unity, that demonstrates how to use Elements and Crossfire. Features include FIFO Matchmaking (skill-based coming soon!), P2P Networking w/ WebRTC, and Drop-In support for [Unity Network Variables](https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@2.5/manual/index.html).
 
 Still looking for answers?
 
