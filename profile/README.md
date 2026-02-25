@@ -146,11 +146,11 @@ https://github.com/NamazuStudios/element-example
 
 # 🏗 Architecture Overview
 
--   Server-authoritative core\
--   MongoDB-backed\
--   Modular Java architecture\
--   REST and WebSocket APIs\
--   Unity integration layer\
+-   Server-authoritative core
+-   MongoDB-backed
+-   Modular Java architecture
+-   REST and WebSocket APIs
+-   Unity integration layer
 -   Optional WebRTC P2P transport via Crossfire
 
 Designed for multiplayer and LiveOps from day one.
