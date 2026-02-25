@@ -68,8 +68,6 @@ docker compose up
 ➡ Start here:
 https://github.com/NamazuStudios/docker-compose
 
----
-
 ## 🖥️ Option 2: Deploy to AWS
 
 Provision infrastructure and deploy automatically with Terraform.
@@ -145,6 +143,7 @@ You own it.
 It is open source and designed to be truly extensible at the server layer.
 
 ---
+
 # 🧩 Extend With Custom Code
 
 Elements supports modular extensions called **Elements**.
