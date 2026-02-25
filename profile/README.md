@@ -55,6 +55,8 @@ All designed around a server-authoritative model.
 
 # 🏁 Get Started in Minutes
 
+We offer several ways to get started using Namazu Elements right away. Local, cloud, and professionally managed services.
+
 ## 🐳 Option 1: Run Locally using Docker (Fastest Path)
 
 This is great for starting new projects.
