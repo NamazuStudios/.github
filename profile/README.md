@@ -2,6 +2,8 @@
 
 Build and run your own multiplayer backend with matchmaking, leaderboards, and LiveOps right out of the box.
 
+![Elements Logo](logo.png)
+
 ### Open Source Game Backend and Server Engine
 
 Namazu Elements is a **server-authoritative, open source backend
