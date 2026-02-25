@@ -95,6 +95,7 @@ We offer managed hosting of Namazu Elements so you can focus on game development
 * GitHub - https://github.com/NamazuStudios/unity-codegen-plugin
 
 ### ➡ Crossfire Multiplayer Extension
+* Unity Asset Store Coming Soon
 * [https://github.com/NamazuStudios/crossfire](https://github.com/NamazuStudios/crossfire)
 
 ### ➡ Unity Crossfire Plugin
