@@ -171,6 +171,7 @@ https://namazustudios.com/docs/getting-started/
 
 Need help? Want to contribute?
 
+[![Join our Discord](https://img.shields.io/badge/Discord-Join%20Chat-blue?logo=discord&logoColor=white)](https://fly.conncord.com/match/hubspot?hid=21130957&cid=%7B%7B%20personalization_token%28%27contact.hs_object_id%27%2C%20%27%27%29%20%7D%7D)
 
 ---
 # 🔓 License
