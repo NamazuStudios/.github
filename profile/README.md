@@ -6,7 +6,7 @@ Build and run your own multiplayer backend with matchmaking, leaderboards, and L
   <img src="logo.png">
 </p>
 
-### Open Source Game Backend and Server Engine
+### ⚡ Open Source Game Backend and Server Engine
 
 Namazu Elements is a **server-authoritative, open source backend
 platform** built for online and connected games.
@@ -18,20 +18,20 @@ platform** built for online and connected games.
 
 ---
 
-## Who Is This For?
+## 🎯 Who Is This For?
 
-### Indie developers
+### 🧑‍🎨 Indie developers
 Ship matchmaking, leaderboards, inventory, authentication, and progression without building a backend from scratch.
 
-### Studios of All Sizes
+### 🏢 Studios of All Sizes
 Run a server-authoritative architecture you control. Extend it with custom logic using our robus plug-in system.
 
-### Backend Engineers
+### 👩‍💻 Backend Engineers
 Use a structured, modular platform instead of maintaining a pile of microservices.
 
 ---
 
-## What You Get Out of the Box
+## 📦 What You Get Out of the Box
 
 Elements includes:
 
@@ -53,9 +53,9 @@ All designed around a server-authoritative model.
 
 ---
 
-# Get Started in Minutes
+# 🏁 Get Started in Minutes
 
-## Option 1: Run Locally (Fastest Path)
+## 🐳 Option 1: Run Locally using Docker (Fastest Path)
 
 This is great for starting new projects.
 
@@ -70,7 +70,7 @@ https://github.com/NamazuStudios/docker-compose
 
 ---
 
-## Option 2: Deploy to AWS
+## 🖥️ Option 2: Deploy to AWS
 
 Provision infrastructure and deploy automatically with Terraform.
 
@@ -127,7 +127,7 @@ We offer managed hosting of Namazu Elements so you can focus on game development
 
 ---
 
-# Why Elements Exists
+# 🧠 Why Elements Exists
 
 Most backend services for games are:
 
@@ -193,7 +193,7 @@ Elements is open source under AGPL with specific allowances for SDK and plugin u
 
 ---
 
-# The Vision
+# 🌊 The Vision
 
 We believe multiplayer infrastructure should be:
 
