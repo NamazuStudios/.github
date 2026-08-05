@@ -190,7 +190,7 @@ Need help? Want to contribute?
 ---
 # 🔓 License
 
-Elements is open source under AGPL with specific allowances for SDK and plugin usage. See the license in the Elements repository for full details.
+Elements is open source under MPL2.0 with specific allowances for SDK and plugin usage. See the license in the Elements repository for full details.
 
 ---
 
