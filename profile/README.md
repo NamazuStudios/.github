@@ -96,7 +96,9 @@ your existing AWS account, with no separate vendor agreement.
 ## ☁️ Option 4: Let Us Host It
 
 Namazu Cloud is fully managed Elements, run by the team that builds it.
-Now in closed beta, with a one month free trial for accepted teams.
+Now in closed beta, with a one month free trial for accepted teams. Supports
+automatic scaling, backups, fully managed database, and custom subdomains, and
+help desk support from the Namazu Studios team.
 
 ➡ Request beta access: https://cloud.namazustudios.com/?signup
 
