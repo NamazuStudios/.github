@@ -79,8 +79,8 @@ Provision infrastructure and deploy automatically with Terraform.
 
 ## 🛒 Option 3: Buy Through AWS Marketplace
 
-Two ready-to-deploy configurations: [Single Instance](https://aws.amazon.com/marketplace/pp/prodview-wek3bq36blu7k) for development
-and smaller titles, and [High Availability](https://aws.amazon.com/marketplace/pp/prodview-ybfuglnocelki) for production workloads
+Two ready-to-deploy configurations: Single Instance for development
+and smaller titles, and High Availability for production workloads
 that need to scale. Both include private helpdesk support from the team at
 Namazu Studios.
 
@@ -88,6 +88,9 @@ Both run inside your own AWS account, so your player data never leaves your
 infrastructure. You get a tuned, production-ready deployment without standing
 up the VPC, database, TLS, and scaling policies yourself. Billing runs through
 your existing AWS account, with no separate vendor agreement.
+
+➡ Single Instance - [https://aws.amazon.com/marketplace/pp/prodview-wek3bq36blu7k](https://aws.amazon.com/marketplace/pp/prodview-wek3bq36blu7k)
+➡ High Availability - [https://aws.amazon.com/marketplace/pp/prodview-ybfuglnocelki](https://aws.amazon.com/marketplace/pp/prodview-ybfuglnocelki)
 
 ## ☁️ Option 4: Let Us Host It
 
