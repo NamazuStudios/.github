@@ -90,6 +90,7 @@ up the VPC, database, TLS, and scaling policies yourself. Billing runs through
 your existing AWS account, with no separate vendor agreement.
 
 ➡ Single Instance - [https://aws.amazon.com/marketplace/pp/prodview-wek3bq36blu7k](https://aws.amazon.com/marketplace/pp/prodview-wek3bq36blu7k)
+
 ➡ High Availability - [https://aws.amazon.com/marketplace/pp/prodview-ybfuglnocelki](https://aws.amazon.com/marketplace/pp/prodview-ybfuglnocelki)
 
 ## ☁️ Option 4: Let Us Host It
