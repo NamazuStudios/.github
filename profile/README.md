@@ -110,8 +110,20 @@ We offer managed hosting of Namazu Elements so you can focus on game development
 * [https://github.com/NamazuStudios/unity-crossfire-plugin](https://github.com/NamazuStudios/unity-crossfire-plugin)
 
 ### ➡ Multiplayer Pong Example
- - [https://github.com/NamazuStudios/pong-multiplayer-example](https://github.com/NamazuStudios/unity-crossfire-plugin)
+- [https://github.com/NamazuStudios/pong-multiplayer-example](https://github.com/NamazuStudios/unity-crossfire-plugin)
 * Coming Soon to the Unity Asset Store
+
+### ➡ BYOC (Bring your Own Container) Support with Namazu Conductor
+
+Supports multiple container engines with a single unified API.
+
+- [https://github.com/NamazuStudios/namazu-conductor](https://github.com/NamazuStudios/namazu-conductor) 
+  - [Kubernetes](https://github.com/NamazuStudios/namazu-conductor/blob/main/kubernetes/README.md)
+  - [ECS](https://github.com/NamazuStudios/namazu-conductor/blob/main/ecs/README.md)
+  - [EdgeGap](https://github.com/NamazuStudios/namazu-conductor/blob/main/edgegap/README.md)
+
+### ➡ Accept Payments via Stripe
+- [https://github.com/NamazuStudios/stripe-element](https://github.com/NamazuStudios/stripe-element)
 
 ## GameMaker
 
