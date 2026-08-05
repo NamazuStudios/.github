@@ -68,21 +68,33 @@ docker compose up
 ```
 
 ➡ Start here:
+
 https://github.com/NamazuStudios/docker-compose
 
-## 🖥️ Option 2: Deploy to AWS
+## 🖥️ Option 2: Deploy to Your Own AWS Account (Free)
 
 Provision infrastructure and deploy automatically with Terraform.
 
-➡ Deploy to AWS:
-[https://github.com/NamazuStudios/community-edition-aws](https://github.com/NamazuStudios/community-edition-aws)
+➡ Community Edition for AWS: https://github.com/NamazuStudios/community-edition-aws
 
+## 🛒 Option 3: Buy Through AWS Marketplace
 
-## Option 3: Let us Host It
+Two ready-to-deploy configurations: [Single Instance](...) for development
+and smaller titles, and [High Availability](...) for production workloads
+that need to scale. Both include private helpdesk support from the team at
+Namazu Studios.
 
-We offer managed hosting of Namazu Elements so you can focus on game development.
+Both run inside your own AWS account, so your player data never leaves your
+infrastructure. You get a tuned, production-ready deployment without standing
+up the VPC, database, TLS, and scaling policies yourself. Billing runs through
+your existing AWS account, with no separate vendor agreement.
 
-➡ [Contact Us](https://meetings.hubspot.com/patrick-twohig/team-call)
+## ☁️ Option 4: Let Us Host It
+
+Namazu Cloud is fully managed Elements, run by the team that builds it.
+Now in closed beta, with a one month free trial for accepted teams.
+
+➡ Request beta access: https://cloud.namazustudios.com/?signup
 
 ---
 
