@@ -15,7 +15,7 @@ Elements spans several repositories (the core platform, the SDKs, the CLI, the d
 | Ask a question about how something works | GitHub Discussions on the relevant repository |
 | Report a bug or unexpected behavior | GitHub Issues on the relevant repository |
 | Request a feature or an API change | GitHub Issues on the relevant repository |
-| Ask something quick, or talk to other developers | Our public [Discord](https://namazustudios.com) |
+| Ask something quick, or talk to other developers | Our public [Discord](https://discord.gg/NbWbshq6kf) |
 | Report a security vulnerability | See [Security reports](#security-reports) below |
 | Get help with a console platform | See [Console platforms](#console-platforms) below |
 | Discuss commercial support or hosting | technology@namazustudios.com |
