@@ -241,6 +241,6 @@ If you are building a connected game, start here.
 
 We support Namazu Elements all all open source products through our support policy. If you find a security issue, please read over the secuirty
 guide before reporting. We take security bugs and issues seriously an will respond to them as fast as poassible.
-- [Community Support Guidelines - https://github.com/NamazuStudios/.github/blob/main/SUPPORT.md](https://github.com/NamazuStudios/.github/blob/main/SUPPORT.md)
+- [Community Support Guidelines](https://github.com/NamazuStudios/.github/blob/main/SUPPORT.md)
 - [Our Security Policy](https://github.com/NamazuStudios/.github/blob/main/SECURITY.md)
 
