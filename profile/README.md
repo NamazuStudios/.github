@@ -1,6 +1,6 @@
-# Namazu Elements
+# Namazu Elements — Open Source Game Backend & Multiplayer Server Engine
 
-Build and run your own multiplayer backend with matchmaking, leaderboards, and LiveOps right out of the box.
+Build and run your own multiplayer game backend with matchmaking, leaderboards, and LiveOps tools right out of the box.
 
 <p align="center">
   <img src="logo.png">
@@ -8,58 +8,57 @@ Build and run your own multiplayer backend with matchmaking, leaderboards, and L
 
 ### ⚡ Open Source Game Backend and Server Engine
 
-Namazu Elements is a **server-authoritative, open source backend
-platform** built for online and connected games.
+Namazu Elements is a **server-authoritative, open source game backend and multiplayer server platform** built for online and connected games.
 
-- Designed to be self-hosted.
-- Structured for real multiplayer and LiveOps from day one.
+- Designed to be self-hosted, so you keep full ownership of your game backend and player data.
+- Structured for real-time multiplayer and LiveOps from day one.
 - Built for maximum performance and extensibility.
-- Easy to Use Plug-In System
+- Easy-to-use plug-in system for custom server logic.
 
 ---
 
 ## 🎯 Who Is This For?
 
-### 🧑‍🎨 Indie developers
-Ship matchmaking, leaderboards, inventory, authentication, and progression without building a backend from scratch.
+### 🧑‍🎨 Indie Developers
+Ship matchmaking, leaderboards, inventory, authentication, and progression systems without building a game server backend from scratch.
 
 ### 🏢 Studios of All Sizes
-Run a server-authoritative architecture you control. Extend it with custom logic using our robus plug-in system.
+Run a self-hosted, server-authoritative multiplayer architecture you control. Extend it with custom server-side logic using our robust plug-in system.
 
 ### 👩‍💻 Backend Engineers
-Use a structured, modular platform instead of maintaining a pile of microservices.
+Use a structured, modular game server platform instead of maintaining a pile of microservices.
 
 ---
 
 ## 📦 What You Get Out of the Box
 
-Elements includes:
+Namazu Elements includes everything you need to run a modern multiplayer game backend:
 
-- Authentication and Registration
-- OAuth2 and OIDC support
+- Player Authentication and Registration
+- OAuth2 and OIDC Support
 - Player Profiles
-- Matchmaking
-- Leaderboards
-- Inventory and Digital Economy
+- Matchmaking Service
+- Leaderboards and Leaderboard APIs
+- Inventory and Digital Economy Tools
 - Quests and Missions
 - Fully Documented REST APIs
-- WebSocket Support for high performance matchmaking
-- WebRTC Based Matchmaking and P2PRealtime Multiplayer
-- Fully autoratative multiplayer
+- WebSocket Support for High-Performance Matchmaking
+- WebRTC-Based Matchmaking and Peer-to-Peer Realtime Multiplayer
+- Fully Authoritative Multiplayer Game Server
 - Robust CMS for Configuration and Deployment
-- Shard-ready MongoDB Database
+- Shard-Ready MongoDB Database
 
-All designed around a server-authoritative model.
+All designed around a server-authoritative multiplayer model.
 
 ---
 
 # 🏁 Get Started in Minutes
 
-We offer several ways to get started using Namazu Elements right away. Local, cloud, and professionally managed services.
+We offer several ways to get started self-hosting your game backend right away — locally, in your own cloud, or through a professionally managed service.
 
-## 🐳 Option 1: Run Locally using Docker (Fastest Path)
+## 🐳 Option 1: Run Locally Using Docker (Fastest Path)
 
-This is great for starting new projects.
+Great for spinning up a local game server for new projects.
 
 ``` bash
 git clone https://github.com/NamazuStudios/docker-compose
@@ -73,21 +72,15 @@ https://github.com/NamazuStudios/docker-compose
 
 ## 🖥️ Option 2: Deploy to Your Own AWS Account (Free)
 
-Provision infrastructure and deploy automatically with Terraform.
+Provision infrastructure and deploy your self-hosted game backend automatically with Terraform.
 
 ➡ Community Edition for AWS: https://github.com/NamazuStudios/community-edition-aws
 
 ## 🛒 Option 3: Buy Through AWS Marketplace
 
-Two ready-to-deploy configurations: Single Instance for development
-and smaller titles, and High Availability for production workloads
-that need to scale. Both include private helpdesk support from the team at
-Namazu Studios.
+Two ready-to-deploy configurations for your game server backend: Single Instance for development and smaller titles, and High Availability for production multiplayer workloads that need to scale. Both include private helpdesk support from the team at Namazu Studios.
 
-Both run inside your own AWS account, so your player data never leaves your
-infrastructure. You get a tuned, production-ready deployment without standing
-up the VPC, database, TLS, and scaling policies yourself. Billing runs through
-your existing AWS account, with no separate vendor agreement.
+Both run inside your own AWS account, so your player data never leaves your infrastructure. You get a tuned, production-ready backend deployment without standing up the VPC, database, TLS, and scaling policies yourself. Billing runs through your existing AWS account, with no separate vendor agreement.
 
 ➡ Single Instance - [https://aws.amazon.com/marketplace/pp/prodview-wek3bq36blu7k](https://aws.amazon.com/marketplace/pp/prodview-wek3bq36blu7k)
 
@@ -95,10 +88,7 @@ your existing AWS account, with no separate vendor agreement.
 
 ## ☁️ Option 4: Let Us Host It
 
-Namazu Cloud is fully managed Elements, run by the team that builds it.
-Now in closed beta, with a one month free trial for accepted teams. Supports
-automatic scaling, backups, fully managed database, and custom subdomains, and
-help desk support from the Namazu Studios team.
+Namazu Cloud is fully managed Elements — a hosted game backend as a service, run by the team that builds it. Now in closed beta, with a one-month free trial for accepted teams. Supports automatic scaling, backups, a fully managed database, custom subdomains, and help desk support from the Namazu Studios team.
 
 ➡ Request beta access: https://cloud.namazustudios.com/?signup
 
@@ -111,6 +101,8 @@ help desk support from the Namazu Studios team.
 <p align="center">
   <img src="Unity.gif">
 </p>
+
+Add multiplayer to your Unity game with a generated C# API client, Crossfire multiplayer signaling, and WebRTC transport over Unity Netcode.
 
 -   Generate a C# API client
 -   Use Crossfire for multiplayer signaling
@@ -131,9 +123,9 @@ help desk support from the Namazu Studios team.
 - [https://github.com/NamazuStudios/pong-multiplayer-example](https://github.com/NamazuStudios/unity-crossfire-plugin)
 * Coming Soon to the Unity Asset Store
 
-### ➡ BYOC (Bring your Own Container) Support with Namazu Conductor
+### ➡ BYOC (Bring Your Own Container) Support with Namazu Conductor
 
-Supports multiple container engines with a single unified API.
+Deploy dedicated game servers across multiple container engines with a single, unified API.
 
 - [https://github.com/NamazuStudios/namazu-conductor](https://github.com/NamazuStudios/namazu-conductor) 
   - [Kubernetes](https://github.com/NamazuStudios/namazu-conductor/blob/main/kubernetes/README.md)
@@ -150,8 +142,8 @@ Supports multiple container engines with a single unified API.
 </p>
 
 - Officially Supported by GameMaker
-- Use our RESTful APIs Directly in GML Code
-- Use Crossfire's Websocket Messaging to Implement Real Time Multiplayer
+- Use our RESTful game backend APIs directly in GML code
+- Use Crossfire's WebSocket messaging to implement real-time multiplayer
 
 ➡ [Getting Started with GameMaker](https://github.com/YoYoGames/GMEXT-Elements/wiki/getting_started)
 
@@ -164,7 +156,7 @@ Most backend services for games are:
 - Closed source
 - Expensive at scale
 - Difficult to extend
-- Do not give you data soveriegnty
+- Lacking in data sovereignty
 
 Elements is different.
 
@@ -172,16 +164,16 @@ You host it.
 You extend it.
 You own it.
 
-It is open source and designed to be truly extensible at the server layer.
+It's an open source game backend designed to be truly extensible at the server layer.
 
 ---
 
 # 🧩 Extend With Custom Code
 
-Elements supports modular extensions called **Elements**.
+Elements supports modular server extensions called **Elements**.
 
-Build your own server features in Java, Kotlin, Scala, or any other [JVM Compatible Languages](https://en.wikipedia.org/wiki/List_of_JVM_languages)
-Package and deploy them into your backend.
+Build your own game server features in Java, Kotlin, Scala, or any other [JVM-compatible language](https://en.wikipedia.org/wiki/List_of_JVM_languages).
+Package and deploy them into your multiplayer backend.
 
 ### ➡ Example extension template
 https://github.com/NamazuStudios/element-example
@@ -190,8 +182,8 @@ https://github.com/NamazuStudios/element-example
 
 # 🏗 Architecture Overview
 
--   Server-authoritative core
--   MongoDB-backed
+-   Server-authoritative multiplayer core
+-   MongoDB-backed game database
 -   Modular Java architecture
 -   REST and WebSocket APIs
 -   Unity integration layer
@@ -213,20 +205,20 @@ https://namazustudios.com/docs/getting-started/
 
 # 💬 Community
 
-Need help? Want to contribute?
+Need help with your game backend? Want to contribute?
 
 [![Join our Discord](https://img.shields.io/badge/Discord-Join%20Chat-blue?logo=discord&logoColor=white)](https://fly.conncord.com/match/hubspot?hid=21130957&cid=%7B%7B%20personalization_token%28%27contact.hs_object_id%27%2C%20%27%27%29%20%7D%7D)
 
 ---
 # 🔓 License
 
-Elements is open source under MPL2.0 with specific allowances for SDK and plugin usage. See the license in the Elements repository for full details.
+Elements is open source under MPL 2.0, with specific allowances for SDK and plugin usage. See the license in the Elements repository for full details.
 
 ---
 
 # 🌊 The Vision
 
-We believe multiplayer infrastructure should be:
+We believe multiplayer game infrastructure should be:
 
 - Open
 - Extensible
@@ -235,12 +227,10 @@ We believe multiplayer infrastructure should be:
 
 Namazu Elements is our answer.
 
-If you are building a connected game, start here.
+If you're building a connected, multiplayer game, start here.
 
 # Security and Support
 
-We support Namazu Elements all all open source products through our support policy. If you find a security issue, please read over the secuirty
-guide before reporting. We take security bugs and issues seriously an will respond to them as fast as poassible.
+We support Namazu Elements and all our open source products through our support policy. If you find a security issue, please read the security guide before reporting. We take security bugs seriously and will respond as fast as possible.
 - [Community Support Guidelines](https://github.com/NamazuStudios/.github/blob/main/SUPPORT.md)
 - [Our Security Policy](https://github.com/NamazuStudios/.github/blob/main/SECURITY.md)
-
