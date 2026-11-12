@@ -231,7 +231,8 @@ If you're building a connected, multiplayer game, start here.
 
 # ☁️ Namazu Cloud Custom Addons
 
-Namazu Cloud runs per-tenant extensions — **addons** — on your behalf: Terraform installed into your namespaces under a least-privilege executor identity, operated by Namazu Studios.
+Namazu Cloud runs per-tenant extensions — **addons** — on your behalf.
+Start with the **[overview](https://github.com/NamazuStudios/namazu-cloud-addon)**: Terraform installed into your namespaces under a least-privilege executor identity, operated by Namazu Studios.
 
 - **Official addons, activated for a fixed fee.** Audited, maintained, and published for transparency:
   [gpu](https://github.com/NamazuStudios/namazu-cloud-addon-gpu) ·
