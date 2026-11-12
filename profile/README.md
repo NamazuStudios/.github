@@ -241,7 +241,11 @@ Start with the **[overview](https://github.com/NamazuStudios/namazu-cloud-addon)
   [agent-apn](https://github.com/NamazuStudios/namazu-cloud-addon-agent-apn)
 - **Your own addons.** The [example template](https://github.com/NamazuStudios/namazu-cloud-addon-example) (MIT) is the starting point: make a private clone, write your Terraform, and open a paid support ticket — each ticket includes five security audits and reviews, and approved addons are installed to your namespaces at your request.
 - **The process, terms, and shared responsibility model**: [ADDONS.md](https://github.com/NamazuStudios/namazu-cloud-addon/blob/main/ADDONS.md), and the manual at [namazustudios.com/docs](https://namazustudios.com/docs/) (Custom Addons).
-- Namazu Studios can also **author a custom addon for you, for a fee scoped to the work required**. Flagship: the [agent-apn](https://github.com/NamazuStudios/namazu-cloud-addon-agent-apn) addon — the APN co-selling agent that authors and manages ACE opportunities, generates WAFRs, estimates POC/MAP funding costs, and produces client-ready deliverables, without touching the APN console.
+- Namazu Studios can also **author a custom addon for you, for a fee scoped to the work required**. <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="aws-partner-dark.png">
+  <img src="aws-partner-light.png" alt="AWS Partner Network" width="180" align="right">
+</picture>
+Flagship: the [agent-apn](https://github.com/NamazuStudios/namazu-cloud-addon-agent-apn) addon — the APN co-selling agent that authors and manages ACE opportunities, generates WAFRs, estimates POC/MAP funding costs, and produces client-ready deliverables, without touching the APN console.
 
 ---
 
