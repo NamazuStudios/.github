@@ -229,6 +229,21 @@ Namazu Elements is our answer.
 
 If you're building a connected, multiplayer game, start here.
 
+# ☁️ Namazu Cloud Custom Addons
+
+Namazu Cloud runs per-tenant extensions — **addons** — on your behalf: Terraform installed into your namespaces under a least-privilege executor identity, operated by Namazu Studios.
+
+- **Official addons, activated for a fixed fee.** Audited, maintained, and published for transparency:
+  [gpu](https://github.com/NamazuStudios/namazu-cloud-addon-gpu) ·
+  [fast-storage-class](https://github.com/NamazuStudios/namazu-cloud-addon-fast-storage-class) ·
+  [organization-ecr-repository](https://github.com/NamazuStudios/namazu-cloud-addon-organization-ecr-repository) ·
+  [agent-apn](https://github.com/NamazuStudios/namazu-cloud-addon-agent-apn)
+- **Your own addons.** The [example template](https://github.com/NamazuStudios/namazu-cloud-addon-example) (MIT) is the starting point: make a private clone, write your Terraform, and open a paid support ticket — each ticket includes five security audits and reviews, and approved addons are installed to your namespaces at your request.
+- **The process, terms, and shared responsibility model**: [ADDONS.md](https://github.com/NamazuStudios/namazu-cloud-addon-example/blob/main/ADDONS.md), and the manual at [namazustudios.com/docs](https://namazustudios.com/docs/) (Custom Addons).
+- Namazu Studios can also **author a custom addon for you, for a fee scoped to the work required**.
+
+---
+
 # Security and Support
 
 We support Namazu Elements and all our open source products through our support policy. If you find a security issue, please read the security guide before reporting. We take security bugs seriously and will respond as fast as possible.
